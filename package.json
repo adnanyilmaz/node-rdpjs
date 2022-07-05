@@ -13,6 +13,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
+    "chrome-net": "^3.3.4",
     "bunyan": "^1.8.12",
     "lodash.isnumber": "^3.0.3"
   }
